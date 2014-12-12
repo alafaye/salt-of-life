@@ -1,0 +1,2 @@
+sshd:
+  pkg.installed
