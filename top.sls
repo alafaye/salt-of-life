@@ -10,3 +10,4 @@ base:
     - ntp
     - motd
     - sshd
+    - iftop
